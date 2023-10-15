@@ -29,3 +29,15 @@ Following findings pave the way for more informed counterterrorism strategies:
 8. Group Activities: Most terrorism incidents are carried out by groups, emphasizing the collaborative nature of these activities.
 
 9. Weapon Choices: Firearms and explosives are the weapons of choice, underscoring their availability and effectiveness.
+
+=================================================================================================================
+PHASE 1 Project 2: Golden TASK
+📢 Exciting Update: Breast Cancer Prediction Tool - A Game-Changer for Healthcare Data Science! 🌡️🔬
+
+Random Forest:
+
+    Test Accuracy: 0.96
+    Test Precision: 0.99
+    Test Recall: 0.94
+    Test F1 Score: 0.97
+    Test ROC AUC Score: 1.00
